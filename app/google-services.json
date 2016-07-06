@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "102271563593",
+    "firebase_url": "https://auro-693f2.firebaseio.com",
+    "project_id": "auro-693f2",
+    "storage_bucket": "auro-693f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102271563593:android:a6593b99285c6204",
+        "android_client_info": {
+          "package_name": "com.example.bikram.firebasefcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102271563593-c5l203iuv71sitkv4pkuqs4cc8p9bdje.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bikram.firebasefcm",
+            "certificate_hash": "80BF08F40F27B9FAB96A026ACD7133DBA6C787A8"
+          }
+        },
+        {
+          "client_id": "102271563593-3b4u6n2tvuma16nbnj5skkhi02jc5ha0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRMK2ebRATDg0df4W_gcXfZJ-LOQabFwA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102271563593-3b4u6n2tvuma16nbnj5skkhi02jc5ha0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
